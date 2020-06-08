@@ -6,3 +6,4 @@ Windows 10,1903;
 Visual Studio 2017;
 ## 绘制效果
 
+![效果](2Ddraw.PNG)
